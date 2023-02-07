@@ -1,4 +1,4 @@
-# Hanging_app
+# Hanging App
 Hanging game app with React Vite Typescript Sweetalert2
 
 Pasos para ejecutar proyecto:
